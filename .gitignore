@@ -21,6 +21,6 @@ pickle-email-*.html
 config.yml
 
 *.txt
-*.yml
+
 
 /*.log
