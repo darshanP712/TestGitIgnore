@@ -20,7 +20,7 @@ pickle-email-*.html
 /config/environments/production.rb
 
 *.txt
-/config.yml
+config.yml
 
 
 /*.log
