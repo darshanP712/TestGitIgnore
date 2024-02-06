@@ -18,8 +18,9 @@ pickle-email-*.html
 
 /config/environments/production.rb
 
+!Test Ignore/*config.yml*
+
 *.txt
 *.yml
-config.yml
 
 /*.log
